@@ -1,0 +1,2 @@
+module ChattyHelper
+end
